@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:fabroide@gmail.com" alt="Gmail">
+  <a href="mailto:tilsonmat@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:tilsonmat@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/tilson-lucas-46a59b1aa" alt="Linkedin">
