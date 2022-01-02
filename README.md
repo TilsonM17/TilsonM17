@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-   <img src="assets/01.jpg" min-width="300px" max-width="300px" height = "300px" width="280px" align="center" alt="Foto de ususrio">
+   <img src="../assets/01.jpg" min-width="300px" max-width="300px" height = "300px" width="280px" align="center" alt="Foto de ususrio">
 </p>
 
 <p align="center">
