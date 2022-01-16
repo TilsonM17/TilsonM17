@@ -34,9 +34,9 @@
       <li>Web</li>
         <ul> 
           <li>Back-End: <strong> PHP </strong> </li>
-          <li>Front-End:<strong> HTML, CSS, JAVASCRIPT,VUE.JS</strong> </li>
+          <li>Front-End:<strong> HTML, CSS, JAVASCRIPT</strong> </li>
           <li>Banco de Dados:<strong> MYSQL</strong></li>
-          <li>Frameworks/Libs:<strong> CODEIGNITER,BOOSTSTRAP,JQUERY</strong></li>
+          <li>Frameworks/Libs:<strong> LARAVEL,VUEJS,VUE CLI,VUEX,BOOSTSTRAP,JQUERY</strong></li>
         </ul>
         <li>Desktop</li>
         <ul> 
