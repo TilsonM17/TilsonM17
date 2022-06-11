@@ -11,7 +11,7 @@ Sou desenvolvedor Web e Desktop. E um eterno apreendiz desse vasto mundo da prog
 ![Imagem de Perfil](TilsonM17/assets/01.jpg)
   
  ## **Coisas interresantes:**
- Abaixo veja uns numeros interesantes:
+ Abaixo veja algumas coisas interessantes:
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=TilsonM17&show_icons=true&theme=dracula&count_private=true)
 
