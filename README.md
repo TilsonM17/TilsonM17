@@ -1,20 +1,14 @@
-# Meu Readme
+### Hey, I'm Tilson ! 👋🏾
+Software Develop. <br>
+Angola,Luanda 🇦🇴
 
-### Bem vindos, desculpa a bangunça, eu sou pessimo com ***layout*** e cores.
-
-Vou direito para as apresntações, Meu nome é      **Tilson Mateus**.
-
-
-Sou desenvolvedor Web e Desktop. E um eterno apreendiz desse vasto mundo da programação.
-Actualmente estou focado no ecossistema web, propriamente com o **PHP** e a sua framework **Laravel**.
+#### 🚶🏾‍♂️ Follow me on 
 
 
- ## **Minha Actividade:**
- 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=TilsonM17&show_icons=true&theme=dracula&count_private=true)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cloudson/)](https://www.linkedin.com/in/tilson-lucas-mateus-46a59b1aa/)
 
-  
-  ### O resto apenas olhe os repositorios ;)
-     
+#### ▶️ Work in progress:
+- Publishing articles in portuguese [Medium](https://medium.com/@tilsonmat) or [Dev.To](https://dev.to/tilsonm17). 
 
+- Create open source code in github.  
 
