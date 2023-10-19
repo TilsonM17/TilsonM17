@@ -10,6 +10,6 @@ Angola,Luanda 🇦🇴
 #### ▶️ Work in progress:
 
 - Sometimes Create content for my YouTube channel [@tilsonmateus](https://www.youtube.com/@tilsonmateus)
-- Publishing articles in portuguese in my [Blog](http://tilsonmateus.com/blog). 
+- Publishing articles in portuguese in my [Blog](http://tilsonmateus.com). 
 - Create open source code in github.  
 
